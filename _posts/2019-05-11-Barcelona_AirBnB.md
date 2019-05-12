@@ -9,7 +9,7 @@ altair-loader:
   altair-chart-1: ["charts/alt_chart.json"]
   altair-chart-2: ["charts/listing_price.json"]
   altair-chart-3: ["charts/listing_polarity.json"]
-  altair-chart-4: ["charts/lSentiment_alt.html"]
+  altair-chart-4: ["charts/Sentiment_alt.html"]
 
 hv-loader:
   holoviews-chart-1: "charts/hvheatmap_1.html"
