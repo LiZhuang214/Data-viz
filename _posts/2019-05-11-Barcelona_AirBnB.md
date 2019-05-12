@@ -6,9 +6,9 @@ tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
 
 altair-loader:
-  altair-chart-1: "charts/alt_chart.html"
-  altair-chart-2: "charts/listing_price.html"
-  altair-chart-3: "charts/listing_polarity.html"
+  altair-chart-1: "charts/alt_chart.json"
+  altair-chart-2: "charts/listing_price.json"
+  altair-chart-3: "charts/listing_polarity.json"
 
 hv-loader:
   holoviews-chart-1: "charts/hvheatmap_1.html"
