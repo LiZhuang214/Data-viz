@@ -27,7 +27,7 @@ toc_sticky: true
    The project will explore the Airbnb market in Barcelona, Spain using data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). I will explore the spatial distribution of Airbnb prices and its relation to the district in which the unit located. Districts’ information includes but not limited to the concentration of restaurants, tourist attractions, and other accommodation options. The landmarks and restaurants data can be obtained from [tour-pedia.org API](http://tour-pedia.org/api/index.html). 
 
 ## Folium Layers Map
-    You can turn on and off different layers to discover the airbnb listings, tourists attractions and restaurants here.
+   You can turn on and off different layers to discover the airbnb listings, tourists attractions and restaurants here.
 Click on the camera icon to get more information about this tourist place!
 
 <div id="folium-chart"></div>
