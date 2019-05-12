@@ -37,12 +37,12 @@ Click on the camera icon to get more information about this tourist place!
 
 
 ## Altair Charts
-_Average airbnb price per person at different neighbourhoods. 
+_Average airbnb price per person at different neighbourhoods._ 
 <div id="altair-chart-2"></div>
 
    From Airbnb listing Price Choropleth Map, the four neighborhoods located at the center, east and east coast leading the average listing price, where la Vila Olimpica del Poblenou with the highest average listing price/person of 184 Euros. Generally, the south part of the city is with higher average listing price/person than that of the north part of Barcelona.
 
-_Average overall satisfaction on airbnb listing at different neighbourhoods.
+_Average overall satisfaction on airbnb listing at different neighbourhoods._
 <div id="altair-chart-3"></div>
 
    At the meantime, according to Airbnb listing Satisfaction Chloropleth Map, Baro de Viver, el Turo de la Peira and Vallvidrera, el Tibidabo i les Planes, the three neighborhoods of north Barcelona, are ranked top with the Average Satisfaction index. However, for the rest parts of the city, it is indicated that the Average satisfaction index grows from north of the city to the coast, south area. 
