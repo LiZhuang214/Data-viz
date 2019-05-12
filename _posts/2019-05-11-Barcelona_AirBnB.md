@@ -7,8 +7,8 @@ excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
 
 altair-loader:
   altair-chart-1: "charts/alt_chart.json"
-  altair-chart-2: "charts/listing_price.json"
-  altair-chart-3: "charts/listing_polarity.json"
+  altair-chart-2: ["charts/listing_price.json", "400"]
+  altair-chart-3: ["charts/listing_polarity.json", "500"]
 
 hv-loader:
   holoviews-chart-1: "charts/hvheatmap_1.html"
@@ -27,19 +27,7 @@ This post will show examples of embedding interactive maps produced using [Foliu
 
 <div id="folium-chart"></div>
 
-## Hvplots
-
-<div id="holoviews-chart-1"></div>
-
-<div id="holoviews-chart-2"></div>
-
-<div id="holoviews-chart-3"></div>
-
 ## Altair Charts
-
-this is 1
-
-<div id="altair-chart-1"></div>
 
 this is 2
 
@@ -48,3 +36,16 @@ this is 2
 this is 3
 
 <div id="altair-chart-3"></div>
+
+this is 1
+
+<div id="altair-chart-1"></div>
+
+## Hvplots
+
+<div id="holoviews-chart-1"></div>
+
+<div id="holoviews-chart-2"></div>
+
+<div id="holoviews-chart-3"></div>
+
