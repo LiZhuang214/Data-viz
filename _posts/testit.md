@@ -1,6 +1,6 @@
 ---
-published: false
-date: 2019-04-23T00:00:00.000Z
+published: true
+date: {}
 tags:
   - dataviz
   - shootings
@@ -15,6 +15,11 @@ observable-loader:
     title: title
     heatmap: heatmap
 ---
+
+# Section 1
+
+This is an example post. lili
+
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
