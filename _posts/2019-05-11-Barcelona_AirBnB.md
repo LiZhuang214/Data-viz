@@ -25,7 +25,7 @@ toc_sticky: true
 
 This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
 ## Project Overview
-  The project will explore the Airbnb market in Barcelona, Spain using data from Inside Airbnb (http://insideairbnb.com/get-the-data.html). I will explore the spatial distribution of Airbnb prices and its relation to the district in which the unit located. Districts’ information includes but not limited to the concentration of restaurants, tourist attractions, and other accommodation options. The landmarks and restaurants data can be obtained from tour-pedia.org API (http://tour-pedia.org/api/index.html). 
+  The project will explore the Airbnb market in Barcelona, Spain using data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). I will explore the spatial distribution of Airbnb prices and its relation to the district in which the unit located. Districts’ information includes but not limited to the concentration of restaurants, tourist attractions, and other accommodation options. The landmarks and restaurants data can be obtained from [tour-pedia.org API](http://tour-pedia.org/api/index.html). 
 
 ## Folium Layers Map
 
