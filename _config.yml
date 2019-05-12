@@ -18,7 +18,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title: "MUSA 620: Data Wrangling and Data Visualization"
 title_separator: "-"
-name: "Nick Hand"
+name: "Li Zhuang"
 description: "Displaying cool data visualizations"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -105,12 +105,12 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Li Zhuang"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Urban Spatial Analysis"
   location: "Philadelphia"
-  email:
-  links:
+  email: "lzhuang96@gmail.com"
+  links: "www.li-zhuang.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
