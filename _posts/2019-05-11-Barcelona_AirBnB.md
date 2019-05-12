@@ -1,5 +1,5 @@
 ---
-title: "thisis li"
+title: "AirBnB Listings in Barcelona, Spain"
 date: 2019-05-11
 published: true
 tags: [dataviz, folium]
