@@ -4,6 +4,13 @@ date: 2019-05-11
 published: true
 tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+
+altair-loader:
+  altair-chart: "charts/measlesAltair.json"
+
+hv-loader:
+  holoviews-chart: "charts/measlesHoloviews.html"
+
 folium-loader:
   folium-chart-1: ["charts/foliumChart.html", "400"]
   folium-chart-2: ["charts/percent_no_internet.html", "400"]
