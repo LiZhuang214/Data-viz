@@ -11,7 +11,9 @@ altair-loader:
   altair-chart-3: "charts/listing_polarity.html"
 
 hv-loader:
-  holoviews-chart: "charts/hv_heatmap.html"
+  holoviews-chart-1: "charts/hvheatmap_1.html"
+  holoviews-chart-2: "charts/hvheatmap_2.html"
+  holoviews-chart-3: "charts/hvheatmap_3.html"
 
 folium-loader:
   folium-chart: ["charts/Barcelona_heatmapstest.html", "400"]
@@ -27,13 +29,22 @@ This post will show examples of embedding interactive maps produced using [Foliu
 
 ## Hvplots
 
-<div id="holoviews-chart"></div>
+<div id="holoviews-chart-1"></div>
+
+<div id="holoviews-chart-2"></div>
+
+<div id="holoviews-chart-3"></div>
 
 ## Altair Charts
 
 this is 1
+
 <div id="altair-chart-1"></div>
+
 this is 2
+
 <div id="altair-chart-2"></div>
+
 this is 3
+
 <div id="altair-chart-3"></div>
